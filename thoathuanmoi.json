@@ -1,0 +1,441 @@
+HUAWEI Ads Publisher Service Agreement
+Last Modified: April 13, 2021
+This HUAWEI Ads Publisher Service Agreement (hereinafter referred to as the "
+Agreement") forms a legally binding agreement between you (also referred to as "
+Developer" or "Publisher") and Huawei (as defined hereunder). This Agreement is a
+supplementary agreement to the HUAWEI Developer Service Agreement and the
+HUAWEI Developer Merchant Service Agreement and together govern your
+relationship with Huawei when you use Huawei Ads Services. By registering for the Ads
+Services under this Agreement, or clicking "I Agree" button at the bottom of this
+Agreement or using any of the Ads Services, you are agreeing to be bound by the terms
+of this Agreement, the HUAWEI Developer Service Agreement and the HUAWEI
+Developer Merchant Service Agreement from the date of such registration, acceptance or
+use ("Effective Date").
+Any and all unaccomplished matters herein shall be subject to the HUAWEI Developer
+Service Agreement and the HUAWEI Developer Merchant Service Agreement. In the
+event of any inconsistency between the terms of this Agreement and the HUAWEI
+Developer Service Agreement and/or the HUAWEI Developer Merchant Service
+Agreement, the terms of this Agreement shall prevail only to the extent of such
+inconsistency relating to Ads Services.
+If you are agreeing to be bound by this Agreement on behalf of your employer or other
+entity, you represent and warrant that you have full legal authority to bind your employer
+or such entity to this Agreement. If you do not have the requisite authority, you may not
+accept the Agreement on behalf of your employer or other entity.
+1. Definitions
+Capitalized terms not defined in this Agreement shall have the meanings ascribed to
+them in the HUAWEI Developer Service Agreement or the HUAWEI Developer
+Merchant Service Agreement. The following terms shall have the following meanings
+when used in this Agreement:
+1.1 "Ads" means advertisements and other content served to the Properties using Ads
+Services through AdsPlatform, including but not limited to texts, pictures, animations,
+videos, audios, webpages, URLs. For the avoidance of doubt, Ads fall under the scope of
+Products defined in the HUAWEI Developer Service Agreement.
+1.2 "Ads Display Policies" refers to the Ads Implementation Policies, Ads Content
+Policies and other policies related to Ads Services available at https://developer.huawei.
+com/consumer/en/doc/distribution/monetize/20786350 as modified from time to time.
+1.3 "Ads Fees" means payments that you will receive for Ads displayed on your
+Properties by using Ads Services under this Agreement.
+1.4 "Ads Services": means the advertising services Huawei provided to you by serving
+Ads to your Properties through AdsPlatform. For the avoidance of doubt, Ads Services
+fall under the scope of the Huawei Services defined in the HUAWEI Developer Service
+Agreement.
+1.5 "Huawei": refers to the applicable Huawei entity(ies) listed in the clause of
+"Distribution Area and Signing Huawei Entity" (Clause 14) of the HUAWEI Developer
+Service Agreement.
+1.6 "Huawei AdsPlatform" (or "AdsPlatform"): refers to a mobile ads platform
+designed to serve Ads to your Properties using professional data processing algorithms.
+1.7 "Huawei Ads SDK" (or "Ads SDK"): refers to software development kits relating to
+Huawei Ads Services provided to you by Huawei.
+1.8 "Property(ies)": means the mobile application software (including any and all
+contents therein) ("App Property" or "App") and other digital content ("Content
+Property") that are operated by you or for which you have obtained legal authorization
+and you submitted to AdsPlatform and to which Huawei may serve Ads through
+AdsPlatform.
+1.9 "Personal Data" means your End User's personal data (e.g., End User of your App),
+which are served Ads via Huawei AdsPlatform.
+2. Ads Services
+2.1 Your use of the Ads Services is subject to your enrollment on AdsPlatform using an
+HUAWEI ID (an "Account") you created and Huawei approved. Huawei has the right to
+refuse or limit your access to the Ads Services. By enrolling in AdsPlatform, you permit
+refuse or limit your access to the Ads Services. By enrolling in AdsPlatform, you permit
+Huawei to serve Ads to your Properties. In addition, you grant Huawei the right to
+access, index and cache the Properties, or any portion thereof, including by automated
+means. Huawei may refuse to provide the Ads Services to any Property.
+2.2 To use Ads Services for Apps, you will need to integrate the HUAWEI Ads SDK or
+HUAWEI Ads API. Your hereby acknowledge and agree that, by integrating the
+HUAWEI Ads SDK or HUAWEI Ads API in Apps, you agree to be bound by the
+Agreement on Use of Huawei APIs.
+2.3 You may use Ads Services only as permitted by this Agreement and the Ads Display
+Policies (collectively "AdsPlatform Terms") and any applicable laws. Do not misuse
+the Ads Services. For example, do not interfere with the Ads Services or try to access
+them using a method other than the interface and the instructions that Huawei provides.
+2.4 Huawei constantly changes and improves the Ads Services and AdsPlatform.
+Huawei may add or remove functionalities or features of the Ads Services at any time,
+and Huawei may suspend or stop an Ads Service altogether. It may affect your use of the
+Ads Services. You hereby agree to accept any and all such adjustments. Huawei may
+modify the AdsPlatform Terms at any time. Huawei will post any modifications to the
+AdsPlatform Terms in accordance with Section 10. If you do not agree to any modified
+terms in the AdsPlatform Terms, you'll have to stop using the affected Ads Services.
+2.5 Huawei does not make any commitments about the Ads Services, including but not
+limited to the content, quality, quantity, price, launch time of Ads, the specific function
+of the Ads Services, or their profitability, reliability, availability or ability to meet your
+needs.
+2.6 Huawei grants you a limited, non-exclusive, non-transferable, non-sublicensable, and
+revocable license for you to display Ads on the Properties served through AdsPlatform
+in accordance with the AdsPlatform Terms. For the avoidance of doubts, you shall not
+use any Ads, in whole or in part, in any other way or for any other purpose.
+3. Using Ads Services
+3.1 You shall not conduct any and all behavior that may cause harm to the interests of
+Huawei and advertisers, damage the experience of other Publishers, disturb the market
+order, adversely affect Huawei's products and brands, cause unfair competition to
+Huawei or infringe Huawei's legitimate rights and interests under the AdsPlatform
+Terms, including but not limited to the following:
+(1) Violation of traffic requirements: Obtaining traffic through invalid or hidden
+(1) Violation of traffic requirements: Obtaining traffic through invalid or hidden
+activities by falsifying Ads clicks, such as purposely clicking Ads by yourself or persons
+hired by you, forcing visitors to click Ads, inducement, program access, or automatic
+update.
+(2) Decompiling Ads SDK: Decompiling Ads SDK in any form; modifying the content,
+functions, logic, and interfaces of Ads SDK.
+(3) Modifying Ads:
+(i) Redirecting the link of the landing page of an Ad clicked by End User to another page
+that is different from the page displayed when the End User directly accesses the landing
+page;
+(ii) Storing or caching any part, copy, or derivative information of Ads by means of
+scraping, spider, index, or any other means;
+(iii) Changing display of any Ads, such as the location, size and other elements relating
+to the Ads.
+(4) Inducing and/or forcing End User to click:
+(i) Providing resource swap and/or incentives to End User if they click a link in nonincentive-oriented advertising cooperation;
+(ii) Forcing End User to click the promotion link to increase the number of times that
+End User use your application or make End User continuously use your application;
+(iii) Covering or hiding any part of the Ads, including the logo, link, and description and
+so on, as a result of which the promotion content overlaps with the page content.
+(5) Any other act of creating false or invalid traffic, clicks, or downloads, or illegal
+embedding.
+(6) Other violations. Any other behavior that Huawei reasonably considers to have
+caused or may cause damage to advertisers' rights, experience of other Publishers, and
+Huawei's brand or goodwill, or unfair competition to Huawei or infringe on Huawei's
+other legitimate rights and interests.
+3.2 If Huawei finds that your Account data is abnormal, or arising out of any Invalid
+Activity (defined in Section 4.6), or you are in violation of any of the AdsPlatform
+Terms in any other ways, Huawei has the right to unilaterally suspend the Ads Services,
+suspend further payments of Ads Fees, suspend or terminate the participation of any of
+your Properties in the Ads Services, recover the related Ads Fees paid to you under this
+your Properties in the Ads Services, recover the related Ads Fees paid to you under this
+Agreement, and notify you to remedy your breach within a specified period of time
+based on the severity of the event. Further, Huawei has the right to terminate this
+Agreement. Huawei also has the right to terminate your Account and restrict your rights
+and interests in the Huawei Developer ecosystem and at User service interfaces. You
+shall indemnify and hold harmless Huawei and advertiser as well as other Publishers
+against and from any and all losses incurred therefrom.
+4. Payments
+4.1 Huawei will issue, on the 15 day of every calendar month following any calendar th
+month based on the China Standard Time (GMT + 8), a monthly report ("Settlement
+Statement") of Ads Fees payable in preceding month related to the number of valid
+impressions of Ads displayed on your Properties, or other valid events performed in
+connection with the display of Ads on your Properties. You may view the Settlement
+Statement by going to My accounts > Credited on the HUAWEI Developers. We
+advise that you check and confirm the Settlement Statement in a timely manner. If you
+dispute the Settlement Statement, you may request account reconciliation and file an
+objection within fifteen (15) calendar days ("Period for Objection") upon issuance of
+the applicable Settlement Statement. The Parties shall finalize the Settlement Statement
+within fifteen (15) days in good faith. If the variance is confirmed less than three percent
+(3%), the settlement shall be performed as per the Settlement Statement. If you do not
+file an objection within the Period for Objection, you will be deemed to agree with the
+Settlement Statement. A Settlement Statement will become effective (i) after the Period
+for Objection; or (ii) when you click "Confirm" button of that Statement, whichever is
+earlier (an "Effective Settlement Statement").
+4.2 Subject to this Section 4, Huawei shall make the payment of Ads Fees in an Effective
+Settlement Statement to the Settlement Account you registered for Merchant Service on
+the thirtieth (30th) calendar days following Huawei's receipt of your invoice or selfbilling invoices (when you distribute your Properties in countries or regions in Part II or
+Part III of Exhibit A, you agree that Huawei will issue self-billing invoices according to
+Exhibit C and Exhibit D) or, only if and when Huawei determines that your Properties
+have remained in compliance with the AdsPlatform Terms (including all Ads Display
+Policies as identified in Section 1.2) for the entirety of the period for which payment is
+made and through to the date that such payment is issued. If you issue an invoice to
+Huawei but fail to submit the said invoice to Huawei as required in Exhibit B, you shall
+assume all losses arising therefrom, including but not limited to interest losses, lawsuit
+fees, attorney fees, inspection fees, traveling expenses, and other direct or indirect losses.
+If you fail to confirm the Settlement Statement or submit the invoice as required within
+twelve (12) months starting from Huawei's issuance of the Settlement Statement, you
+will be deemed to have waived your rights for such Ads Fees and Huawei shall not pay
+will be deemed to have waived your rights for such Ads Fees and Huawei shall not pay
+You such Ads Fees.
+4.3 If your Account is in good standing through to the time when Huawei issues you a
+payment of Ads Fees, Huawei will pay you in accordance with this Section 4. If Huawei
+is investigating your compliance with the AdsPlatform Terms or you have been
+suspended or terminated, your payment may be delayed or withheld. To ensure proper
+payment, you are responsible for providing and maintaining accurate contact and
+payment information in association with your Account.
+4.4 Huawei may (a) withhold and offset any payments owed to you under the
+AdsPlatform Terms against any fees you owe us under the AdsPlatform Terms or any
+other agreement relating to the Ads Services, or (b) require you to refund Huawei within
+30 days of any invoices any Huawei may have overpaid to you in prior periods. You are
+responsible for any charges assessed by your bank or payment provider.
+4.5 Huawei has the right to withhold or adjust payments to you to exclude any amounts
+Huawei determines arise from Invalid Activity. "Invalid Activity" includes, but not
+limited to, (i) spam, invalid clicks, invalid impressions, invalid queries, invalid
+conversions, or other invalid events on Ads generated by any person, bot, automated
+program or similar device, including through any clicks or impressions, queries,
+conversions, or other events originating from your IP addresses or mobile devices under
+your control; (ii) clicks, impressions, queries, conversions, or other events solicited or
+generated by payment of money, false representation, or requests for End User to click
+on Ads or take other actions; (iii) Ads served to End User who are otherwise tampering
+with ad serving or measurement; (iv) any click, impression, query, conversion, or other
+event occurring on a Property that does not comply with the Ads Display Policies; (v)
+any click, impression, query, conversion, or other event occurring on a Property
+associated with another Account you use; and (vi) all clicks, impressions, queries,
+conversions, or other events in any Account with significant amounts of invalid activity,
+as described in (i-v) above or with the types of invalid activity indicating intentional
+misconduct. In the event Huawei detects Invalid Activity, either before or after issuing a
+payment for that activity, Huawei reserves the right to debit your Account, and adjust
+future payments accordingly, for all invalid clicks, impressions, queries, conversions, or
+other events including for all clicks, impressions, queries, conversions, or other events
+on Properties that do not comply with the Ads Display Policies.
+4.6 Minimum Payment Threshold. If the cumulative amount to be settled within one
+calendar month is less than the applicable minimum payment threshold listed in below
+table, the payment will be made when the payable amount reaches the minimum
+payment threshold. If the cumulative payable amount does not reach the minimum
+payment threshold for consecutive six months, Huawei shall pay the payable Ads Fees
+every six months.
+Ads Serving
+Registration
+Location of
+Publisher
+Currency
+Minimum
+Settlement
+Amount
+Chinese mainland in Part I
+of Exhibit A
+Chinese mainland CNY 1,000
+Outside Chinese
+mainland CNY ¥1,000
+Countries/regions in Part
+II of Exhibit A all EUR €200
+Countries/regions in Part
+III of Exhibit A all EUR €200
+4.7 Payment currency
+4.7.1 In accordance with Clause 1.5 hereinabove under this Agreement:
+(1) if you are registered in the same country/region of the applicable Huawei entity, the
+payment currency shall be the legal currency of such country/region;
+(2) if you are not registered in the same country/region of the applicable Huawei entity,
+the payment currency shall be the currency you selected when you registered for
+Merchant Service.
+4.7.2 Exchange rate: If the transaction currency paid by advertisers is different from the
+settlement currency which you had chosen, Huawei will use the published exchange rate
+it adopted to convert it into the settlement currency. If the settlement currency differs
+from the currency of your receiving account, the currency conversion will be made by an
+from the currency of your receiving account, the currency conversion will be made by an
+intermediary bank, and the exchange profit and loss and other handling fees shall be
+borne by you.
+4.7.3 If there is a valid supplementary agreement to this Agreement between you and
+Huawei providing any other payment currency, such other payment currency shall apply.
+5. Taxes
+5.1 As between you and Huawei, Huawei is responsible for all taxes (if any) associated
+with the transactions between Huawei and advertisers in connection with Ads displayed
+on the Properties. You are responsible for all taxes (if any) associated with the Ads
+Services, other than taxes based on Huawei's net income.
+5.2 All Ads Fees payable to you by Huawei under this Agreement shall be inclusive of
+any applicable taxes and will not be adjusted. If Huawei is obligated to withhold any
+taxes from its payments to you, Huawei will notify you of this and will make the
+payments net of the withheld amounts. Huawei will provide you with original or
+certified copies of tax payments (or other sufficient evidence of tax payments) if any of
+these payments are made by Huawei.
+5.3 If Huawei cannot perform tax credit or suffers pre-tax losses due to any noncompliant invoices provided by you, you shall compensate Huawei for any and all such
+losses.
+6. Confidentiality
+6.1 You agree not to disclose Huawei Confidential Information without Huawei's prior
+written consent. "Huawei Confidential Information" includes: (1) all Huawei software,
+technology and documentation relating to the Ads Services; (2) click-through rates or
+other statistics relating to Property performance as pertaining to the Ads Services; (3) the
+existence of, information about, or the terms of, any non-public beta or experimental
+features in an Ads Service; and (4) any other information made available by Huawei that
+is marked confidential or would normally be considered confidential under the
+circumstances in which it is presented. Huawei Confidential Information does not
+include information that you already knew prior to your use of the Ads Services, that
+becomes public through no fault of yours, that was independently developed by you, or
+that was lawfully given to you by a third party.
+6.2 Notwithstanding Section 6.1, you may accurately disclose the amount of Huawei's
+6.2 Notwithstanding Section 6.1, you may accurately disclose the amount of Huawei's
+gross payments of Ads Fees resulting from your use of the Services.
+7. Indemnity
+7.1 You agree to indemnify and defend Huawei, its Affiliates, agents, and advertisers
+from and against any and all third-party claims and liabilities arising out of or related to
+the Properties, including any content served on the Properties that is not provided by
+Huawei, your use of the Services, or your breach of any term of the AdsPlatform Terms.
+Huawei's advertisers are third-party beneficiaries of this indemnity.
+8. Representations and Warranties
+8.1 You agree hereby represent, warrant and covenant that:
+(1) you have full power and authority to enter into the AdsPlatform Terms and entering
+into or performing under the AdsPlatform Terms does not violate any agreement you
+have with a third party or any third-party rights, or any applicable laws and regulations;
+(2) you are the owner of, or are legally authorized to act on behalf of the owner of, each
+Property. The qualification materials that you provide shall conform to applicable laws
+and regulations as well as this Agreement. Huawei has the right to or designate a thirdparty institution to verify such materials submitted by you. Said verification does not
+exempt you from the obligations and responsibilities that you shall assume for related
+Ads;
+(3) you are the technical and editorial decision maker in relation to each Property on
+which the Services are implemented and you have control over the way in which the Ads
+Services are implemented on each Property;
+(4) Huawei has never previously terminated or otherwise disabled an Account created by
+you due to your breach of the AdsPlatform Terms, including due to Invalid Activity;
+(5) all of the information provided by you to Huawei is correct and current;
+(6) You are not subject to or threatened by any claim, lien, or litigation that affect or may
+affect the rights of Huawei under the AdsPlatform Terms;
+(7) You will display Ads on your Properties as served through AdsPlatform and in
+accordance with AdsPlatform Terms;
+(8) You will ensure the normal operation of the Properties. If you plan to make a major
+adjustment to the location of any Ads on your Properties, you shall inform Huawei in
+written form at least five (5) working days in advance. A major adjustment refers to the
+adjustment to one or more factors that have important impact on the decision-making of
+Huawei/advertisers about Ads Services, such as the traffic, quality, and value of the
+Properties. Such major adjustments include but are not limited to increasing or
+decreasing the Ads release rounds, and greatly modifying the design and/or content of
+the page where the display location of Ads;
+(9) You will not make any changes to the Ads or use any Ads, in whole or in part, served
+through AdsPlatform in any other way or for any other purpose;
+(10) You will not change your Ads Data on AdsPlatform by any means, including but
+not limited to modifying the click-through rate, exposure rate, conversion rate.
+8.2 If your use of Ads Services does not comply with the terms of the AdsPlatform
+Terms, you shall promptly provide qualified Properties for Ads display free of charge, or
+refund related payment Huawei paid you. Huawei also has the right to terminate the Ads
+Services to related or all Properties you submitted to AdsPlatform, and you shall
+indemnify and hold harmless Huawei against and from any and all losses incurred
+therefrom upon Huawei.
+8.3 No conditions, warranties or other terms apply to any Ads Services supplied by
+Huawei under the AdsPlatform Terms unless expressly set out in this Agreement. No
+implied conditions, warranties or other terms apply (including any implied terms as to
+satisfactory quality, fitness for purpose or conformance with description).
+9. Data Protection
+9.1 You will ensure that at all times you use the Ads Services, the Properties have a
+clearly labeled and easily accessible end user agreement and privacy policy provided to
+your End User for ads serving, and you have obtained your End User's consent to be
+served with Ads on the Properties, including but not limited to Splash Ads. Your use of
+Ads Services on any of your Properties shall be deemed that you have obtained your End
+User's such consent.
+9.2 You must obtain your End User's legally valid consent to the collection, sharing, and
+use of Personal Data for personalization of ads for Ads services. Consent needs to be
+obtained via End User being given an option to take affirmative action to indicate
+consent. You must retain records of consent given by your End User and provide End
+User with clear instructions for withdrawing their consent.
+9.3 The Personal Data includes (1) device information, such as Open Advertising ID ("
+OAID", the device ID generated by Huawei), Google Open Advertising ID ("GAID",
+the device ID generated by Google), and device identifier; (2) network information (such
+as IP address, network type and carrier information), operating system information; (3)
+location information; (4) App information (such as name, version and language), and (5)
+Ad event information (Ad clicks and actions, such as open, download or play different
+Ads) in the Properties.
+9.4 If your App has permission enabled for use of location data, location information
+may be collected and used for Ads services when End User has given appropriate
+authorizations.
+9.5 You must observe any and all applicable laws and regulations on protecting personal
+information of children, and shall tell in the Huawei AdsPlatform interface whether an
+End User is a child pursuant to applicable laws and regulations. You shall be solely
+responsible and liable for any and all consequences incurred from your Properties
+displaying Ads to children.
+9.6 You shall have a publicly stated privacy policy in compliance with applicable laws
+and regulations. The privacy policy shall be displayed prominently in your App. You
+must disclose clearly how End User's Personal Data will be used as a consequence of
+end user giving consent on your App. End User need to have sufficient information to be
+able to reach their ad controls provided by Huawei on End User's device. You must
+clearly identify each party, in addition to Huawei, that may collect, receive, and/or use
+Personal Data as a result of your use of Ads Services. You must also provide End User
+easily accessible information about that party's use of Personal Data.
+9.7 The Parties acknowledge and agree that they are independent data controllers or the
+equivalent of based on applicable data protection laws. It is further acknowledged that in
+respect of any Personal Data, under no circumstances shall either Party be a joint
+controller, or comparable, implying joint control and responsibility between the Parties.
+9.8 The application of this Agreement shall not prevent either Party from performing its
+statutory obligations in accordance with applicable laws.
+10. Termination
+10.1 If either party terminates the HUAWEI Developer Service Agreement or the
+HUAWEI Developer Merchant Service Agreement, this Agreement shall automatically
+terminate with the same effective date of termination.
+10.2 Huawei may unilaterally terminate this Agreement by sending a written notice to
+you at least three (3) months in advance. If you desire to terminate this Agreement, you
+shall notify Huawei in written at least three (3) months in advance. This Agreement shall
+be terminated after you complete all confirmed advertisement launch tasks and both
+Parties complete the corresponding settlement.
+10.3 Termination of this Agreement shall not result in automatic termination of the
+HUAWEI Developer Service Agreement and the HUAWEI Developer Merchant Service
+Agreement between the parties; however, the party may, at its sole discretion, choose to
+terminate the HUAWEI Developer Service Agreement or the HUAWEI Developer
+Merchant Service Agreement with the same effective date of termination of this
+Agreement in accordance with the termination terms therein.
+10.4 If you delete your Account after termination of this Agreement, all data (including
+your data, User Data, and Product Operation Data) stored in Your Account will be
+permanently deleted.
+10.5 Any provisions of this Agreement which expressly or by their nature are intended to
+survive the termination of the Agreement, will continue in full force and effect
+subsequent to and notwithstanding such termination, until such provisions are satisfied
+or by their nature expire.
+11. Changes to This Agreement
+Please refer to the clause of "Notices and Updates" (Clause 13) of the HUAWEI
+Developer Service Agreement.
+12. Distribution Area and Signing Huawei Entity
+Please refer to the clause of "Distribution Area and Signing Huawei Entity" (Clause 14)
+of the HUAWEI Developer Service Agreement.
+13. Governing Law and Dispute Resolution
+Please refer to the Clause of "Governing Law and Dispute Resolution" (Clause 15) of the
+HUAWEI Developer Service Agreement.
+Exhibit A - List of Countries/Regions
+Please refer to Exhibit A of the HUAWEI Developer Service Agreement.
+Exhibit B - Issuance of Invoices
+1. If you use Ads Services on your Properties distributed in the Chinese mainland in Part
+I of Exhibit A (List of Countries/Regions):
+1.1 If you are a tax resident of Chinese mainland, you must register Your VAT taxpayer
+status (i.e., ordinary taxpayer or small-scale taxpayer) and the VAT rate you will use on
+this Website when providing invoices to Huawei. If you are an ordinary VAT taxpayer,
+you must issue Chinese VAT-specific invoices to Huawei for Ads Fees to be paid to you.
+If you are a small-scale VAT taxpayer, you must issue 3% special invoices to Huawei. If
+your invoice fails to comply with applicable laws and regulations and causes losses of
+Huawei, you have to compensate all such losses of Huawei.
+1.2 If you are not a tax resident of Chinese mainland, all the applicable Indirect Taxes of
+payable Ads Fees shall be borne by You in accordance with applicable tax laws of
+Chinese mainland. Huawei will withhold the Taxes and pay them to local tax authorities
+as required by local tax laws and regulations. The final amount paid by Huawei to you is
+the remaining balance after deducting all relevant taxes. You must issue a commercial
+invoice to Huawei of the total settlement amount, including all withholding taxes
+(including VAT).
+1.3 You must issue an invoice to Huawei for the gross amount of each payment Huawei
+paid you under this Agreement. You must provide the invoice within five (5) working
+days after the Settlement Statement become effective. Huawei shall pay you the
+Settlement Amount after receiving your invoice.
+2. If you use Ads Services on your Properties distributed in a country or region listed
+in Part II and Part III of Exhibit A:
+2.1 You agree that Huawei will perform self-billing in accordance with Exhibit C and
+Exhibit D. You will not be required to provide invoices to Huawei. If you are VAT
+registered, you must provide Huawei with your VAT number during registration on the
+Website in order for Huawei to perform self-billing. If you have canceled your VAT
+number or your VAT number has changed, you must contact Huawei immediately. All
+input VAT deemed irrecoverable/output VAT assessed as due / interest or penalties
+imposed by a tax authority assessment due to Your failure to do so shall be borne by
+you. If you are not VAT registered, Huawei shall issue a non-VAT self-billing invoice
+on your behalf.
+Exhibit C - Self-Billing Agreement
+This is an agreement to a self-billing procedure between
+Huawei (the self-biller) Name: VAT Number:
+and
+Developer (the self-billee) Name: VAT Number:
+Huawei agrees:
+1. To issue self-billed invoices for all supplies made to them by the Developer until
+further notice.
+2. To complete self-billed invoices showing the Developers name, address and VAT
+registration number, together with all the other details which constitute a valid VAT
+invoice.
+3. To make a new self-billing agreement in the event that their VAT number changes or
+where they cease to be registered for VAT.
+4. To inform the Developer if the issue of self-billed invoices will be outsourced to a
+third party.
+Developer agrees:
+1. To accept invoices raised by Huawei on their behalf until further notice.
+2. Not to raise sales invoices for the transactions covered by this agreement.
+3. To notify Huawei immediately if they:
+(a) Change their VAT registration number;
+(b) Cease to be VAT registered; or
+(c) Sell their business, or part of their business.
+Exhibit D - Self-Billing Invoice Sample
+Upon signing this agreement, you agree to below self-billing invoice samples are in
+order.
